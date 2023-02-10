@@ -1,5 +1,7 @@
 # Midjourney Client
 
+Forked from oelin/midjourney-client
+
 A minimal client for Midjourney's hosted inference API on Replicate. This package allows you to easily access Midjourney/Openjourney from NodeJS.
 
 > Openjourney is an open source Stable Diffusion fine tuned model on Midjourney images, by [PromptHero](https://prompthero.com/). Predictions run on Nvidia A100 GPU hardware.
